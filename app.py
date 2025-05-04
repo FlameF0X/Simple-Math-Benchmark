@@ -35,7 +35,7 @@ DEFAULT_CONFIG = {
         "HuggingFaceTB/SmolLM-1.7B-Instruct",
         "google/gemma-2-2b-it"
     ],
-    "num_questions": 1000,
+    "num_questions": 5000,
     "max_tokens": 16,
     "batch_size": 8,
     "timeout": 10,
